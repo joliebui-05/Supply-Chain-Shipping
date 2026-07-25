@@ -156,3 +156,14 @@ To calculate the project KPIs and support sales and distribution analysis, the d
 | Geography | States, cities, and country information for spatial analysis |
 | Calendar | Date table to support monthly, quarterly, and yearly trend analysis |
 
+#### KPI Measurement Plan
+
+The selected KPIs provide a balanced view of business performance across four key areas:
+
+- **Sales Performance** – Revenue, Profit, Profit Margin, Orders, Average Order Value
+- **Product Performance** – Product Revenue, Product Profit, Top Products by Revenue
+- **Factory Performance** – Factory Revenue, Factory Profit, Customer Coverage Rate
+- **Distribution Performance** – Average Shipping Distance, Longest Shipment, Orders Within/Outside Target Radius
+
+Together, these metrics provide stakeholders with a comprehensive view of commercial performance and distribution efficiency, enabling data-driven decisions that improve profitability, optimize distribution operations, and support strategic business planning.
+
