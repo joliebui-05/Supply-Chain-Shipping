@@ -89,3 +89,24 @@ The first step of the project was to identify the key stakeholders and understan
 | **Product Managers** | Analyze product revenue, profitability, and order volume | Product portfolio optimization, pricing decisions, and inventory planning |
 
 > **Outcome:** The dashboard was designed to provide each stakeholder group with relevant KPIs and interactive visualizations, enabling faster, data-driven decisions that improve both sales performance and distribution efficiency.
+
+#### Overall Business Strategy
+
+The U.S. Candy Distributor's business strategy focuses on increasing sales performance while improving distribution efficiency across its nationwide factory and customer network.
+
+This Business Intelligence solution supports that strategy by providing a centralized reporting platform that enables stakeholders to monitor key performance indicators (KPIs), evaluate factory and product performance, and identify opportunities to improve operational efficiency through data-driven decision-making.
+
+Specifically, this project helps the business:
+
+- **Monitor sales performance** to evaluate revenue, profit, profit margin, and order trends over time.
+- **Identify high-performing products** to support product portfolio and profitability decisions.
+- **Evaluate factory performance** by comparing revenue, profit, and customer coverage across manufacturing facilities.
+- **Analyze distribution efficiency** by measuring shipping distances, customer coverage, and factory-to-customer distribution patterns.
+- **Identify opportunities to improve logistics** by highlighting long shipping distances and areas with lower customer coverage.
+- **Establish a single source of truth** that replaces fragmented reporting with interactive dashboards and consistent business metrics.
+
+By transforming raw sales and distribution data into actionable insights, this solution enables leadership to make faster, more informed decisions that improve sales performance, optimize distribution operations, and support sustainable business growth.
+
+</details>
+
+<br>
