@@ -55,3 +55,19 @@ The company lacks a centralized view of sales and distribution performance, maki
 </details>
 
 <br>
+
+<details>
+<summary><strong>4. Business Goals</strong></summary>
+
+<br>
+
+Build an interactive Power BI solution that helps stakeholders:
+
+- Monitor sales performance through revenue, profit, profit margin, and order metrics.
+- Compare sales performance across products, factories, and time.
+- Evaluate factory-to-customer shipping distances and customer coverage.
+- Identify opportunities to improve distribution efficiency by highlighting long shipping routes and low coverage areas.
+- Analyze product profitability to identify top- and bottom-performing products.
+- Support data-driven decisions for sales performance and distribution planning.
+
+</details>
