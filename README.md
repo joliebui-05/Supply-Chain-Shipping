@@ -46,10 +46,11 @@ Although the dataset includes a small number of **Canadian** orders, the vast ma
 
 The company lacks a centralized view of sales and distribution performance, making it difficult to answer key business questions such as:
 
-- Which factory-to-customer shipping routes are the most and least efficient?
-- Which product categories generate the highest revenue and profit margins?
-- Are products being supplied from factories that result in unnecessarily long shipping distances?
-- Which products, divisions, and geographic regions contribute the most to overall sales and profitability?
+- Which products and factories generate the highest revenue and profit?
+- How does sales performance vary across products and over time?
+- Which factories provide the most efficient customer coverage?
+- Are customers being served within the company's target shipping distance?
+- Which factory locations present opportunities to improve distribution efficiency?
 
 </details>
 
