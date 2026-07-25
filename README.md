@@ -184,7 +184,7 @@ The project uses the **U.S. Candy Distributor** dataset provided by **Maven Anal
 
 | Source | Access Method | Storage |
 |--------|---------------|---------|
-| Maven Analytics – U.S. Candy Distributor Dataset | SQL Server & Power BI Desktop (Power Query) | Local Project Database & PBIX File |
+| Maven Analytics – Supply Chain Shipping Dataset | SQL Server & Power BI Desktop (Power Query) | Local Project Database & PBIX File |
 
 
 
