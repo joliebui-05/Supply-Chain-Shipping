@@ -9,8 +9,6 @@ Analyzes the U.S. candy sales, profitability, shipping distance, and factory cov
 
 ## 📖 Project Overview
 
-## 📖 Project Overview
-
 This project is an end-to-end Business Intelligence solution developed in **Power BI** using the **Supply Chain Shipping** dataset provided by **Maven Analytics**.
 
 The report transforms raw shipping and sales data into interactive dashboards that enable stakeholders to monitor sales performance, shipping operations, and product insights. It combines data preparation, data modeling, DAX calculations, and interactive visualizations to support data-driven business decisions and improve operational efficiency.
