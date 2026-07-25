@@ -127,3 +127,18 @@ The success of this project was defined by its ability to deliver a centralized 
 - Identify high-performing products and factories.
 - Detect opportunities to reduce long shipping distances and improve customer coverage.
 - Support data-driven sales and distribution planning through interactive dashboards.
+
+#### Key Performance Indicators (KPIs)
+
+| KPI | Business Purpose |
+|------|------------------|
+| **Total Revenue** | Measure overall sales performance and business growth. |
+| **Total Profit** | Evaluate business profitability across products and factories. |
+| **Profit Margin %** | Monitor profitability relative to revenue. |
+| **Total Orders** | Track customer demand and sales activity. |
+| **Average Order Value** | Measure the average revenue generated per customer order. |
+| **Average Shipping Distance** | Evaluate the efficiency of factory-to-customer distribution routes. |
+| **Longest Shipment** | Identify extreme shipping distances that may indicate inefficient distribution. |
+| **Orders Coverage Rate** | Measure the percentage of orders delivered within the target shipping radius. |
+| **Orders Within / Outside Radius** | Compare efficient versus inefficient deliveries based on shipping distance. |
+
