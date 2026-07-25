@@ -92,7 +92,7 @@ The first step of the project was to identify the key stakeholders and understan
 
 #### Overall Business Strategy
 
-The U.S. Candy Distributor's business strategy focuses on increasing sales performance while improving distribution efficiency across its nationwide factory and customer network.
+The U.S. Candy Distributor's business strategy focuses on increasing sales performance while improving distribution efficiency across its factory and customer network.
 
 This Business Intelligence solution supports that strategy by providing a centralized reporting platform that enables stakeholders to monitor key performance indicators (KPIs), evaluate factory and product performance, and identify opportunities to improve operational efficiency through data-driven decision-making.
 
