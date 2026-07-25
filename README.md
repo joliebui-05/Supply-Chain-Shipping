@@ -142,3 +142,17 @@ The success of this project was defined by its ability to deliver a centralized 
 | **Orders Coverage Rate** | Measure the percentage of orders delivered within the target shipping radius. |
 | **Orders Within / Outside Radius** | Compare efficient versus inefficient deliveries based on shipping distance. |
 
+#### Data Requirements
+
+To calculate the project KPIs and support sales and distribution analysis, the dashboard integrates data from multiple business domains:
+
+| Business Domain | Data Required |
+|-----------------|---------------|
+| Sales | Sales transactions, order quantity, revenue, profit, and order dates |
+| Products | Product details, categories, pricing, and factory assignments |
+| Customers | Customer locations, order history, and geographic information |
+| Factories | Factory names, locations, and production assignments |
+| Distribution | Shipping distance, customer coverage, and delivery radius |
+| Geography | States, cities, and country information for spatial analysis |
+| Calendar | Date table to support monthly, quarterly, and yearly trend analysis |
+
