@@ -1,1 +1,2 @@
-Sales and Distribution Performance Overview For the US Only | Distances in Miles
+# Supply-Chain-Shipping_Dashboard
+Analyzes the U.S. candy sales, profitability, shipping distance, and factory coverage to identify top performers and distribution opportunities.
