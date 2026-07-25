@@ -71,3 +71,22 @@ Build an interactive Power BI solution that helps the company:
 - Support data-driven decisions for sales performance and distribution planning.
 
 </details>
+
+## 🛠 Project Workflow
+
+<details>
+<summary><strong>1. Business Understanding</strong></summary>
+
+#### Stakeholder Analysis
+
+The first step of the project was to identify the key stakeholders and understand how the dashboard could support their business decisions. This ensured the reporting solution addressed both commercial performance and distribution efficiency across the U.S. distribution network.
+
+| Stakeholder | Business Need | Decisions Supported |
+|--------------|---------------|---------------------|
+| **Executive Leadership** | Monitor overall sales, profitability, and distribution performance through high-level KPIs | Strategic planning, business growth, and operational performance monitoring |
+| **Sales Managers** | Track revenue, profit, orders, and product performance across time and factories | Product prioritization, sales planning, and performance improvement |
+| **Supply Chain & Logistics Managers** | Evaluate shipping distances, customer coverage, and factory performance | Distribution planning, shipping efficiency improvements, and factory performance evaluation |
+| **Operations Managers** | Monitor customer coverage, shipping metrics, and factory utilization | Operational planning, resource allocation, and service coverage improvements |
+| **Product Managers** | Analyze product revenue, profitability, and order volume | Product portfolio optimization, pricing decisions, and inventory planning |
+
+> **Outcome:** The dashboard was designed to provide each stakeholder group with relevant KPIs and interactive visualizations, enabling faster, data-driven decisions that improve both sales performance and distribution efficiency.
