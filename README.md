@@ -49,7 +49,7 @@ The company lacks a centralized view of sales and distribution performance, maki
 - Which factory-to-customer shipping routes are the most and least efficient?
 - Which product categories generate the highest revenue and profit margins?
 - Are products being supplied from factories that result in unnecessarily long shipping distances?
-- Which products, and geographic regions contribute the most to overall sales and profitability?
+- Which products, divisions, and geographic regions contribute the most to overall sales and profitability?
 
 </details>
 
