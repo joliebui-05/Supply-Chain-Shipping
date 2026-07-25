@@ -167,3 +167,22 @@ The selected KPIs provide a balanced view of business performance across four ke
 
 Together, these metrics provide stakeholders with a comprehensive view of commercial performance and distribution efficiency, enabling data-driven decisions that improve profitability, optimize distribution operations, and support strategic business planning.
 
+</details>
+
+<br>
+
+<details>
+<summary><strong>3. Data Preparation</strong></summary>
+
+<br>
+
+Before building the data model, the AdventureWorks source data was imported, assessed, and transformed to ensure it was accurate, consistent, and suitable for analysis.
+
+#### Data Acquisition
+
+The project uses the AdventureWorks dataset provided as multiple CSV files, which were imported into **Power BI Desktop** using **Power Query**.
+
+| Source | Access Method | Storage |
+|---------|---------------|---------|
+| AdventureWorks CSV Files | Power BI Desktop (Power Query) | Local Project Folder |
+
