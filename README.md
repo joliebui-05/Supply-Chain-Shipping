@@ -178,7 +178,7 @@ Together, these metrics provide stakeholders with a comprehensive view of commer
 
 Before building the data model, the U.S. Candy Distributor dataset was imported, explored, and transformed to ensure it was accurate, consistent, and ready for business analysis. SQL was used to explore and validate the data, while Power Query was used to clean and prepare the data for reporting in Power BI.
 
-### Data Acquisition
+#### Data Acquisition
 
 The project uses the **U.S. Candy Distributor** dataset provided by **Maven Analytics**. The source data was imported into **SQL Server** for exploratory analysis and validation before being loaded into **Power BI Desktop** using **Power Query** for transformation and modeling.
 
@@ -186,17 +186,5 @@ The project uses the **U.S. Candy Distributor** dataset provided by **Maven Anal
 |--------|---------------|---------|
 | Maven Analytics – U.S. Candy Distributor Dataset | SQL Server & Power BI Desktop (Power Query) | Local Project Database & PBIX File |
 
-### Data Preparation Activities
 
-The data preparation process included:
-
-- Imported source data into SQL Server for exploration and validation.
-- Cleaned and transformed the data using Power Query.
-- Verified data quality by checking for missing, duplicate, and inconsistent records.
-- Standardized data types and column names.
-- Created relationships between fact and dimension tables using a star schema.
-- Built a dedicated calendar table to support time-based analysis.
-- Prepared the final data model for DAX calculations and interactive reporting.
-|---------|---------------|---------|
-| AdventureWorks CSV Files | Power BI Desktop (Power Query) | Local Project Folder |
 
