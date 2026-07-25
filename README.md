@@ -61,7 +61,7 @@ The company lacks a centralized view of sales and distribution performance, maki
 
 <br>
 
-Build an interactive Power BI solution that helps stakeholders:
+Build an interactive Power BI solution that helps the company:
 
 - Monitor sales performance through revenue, profit, profit margin, and order metrics.
 - Compare sales performance across products, factories, and time.
