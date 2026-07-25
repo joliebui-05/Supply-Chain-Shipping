@@ -20,9 +20,10 @@ The report transforms raw shipping and sales data into interactive dashboards th
 
 <br>
 
-Leadership wants to evaluate both **commercial performance** and **distribution efficiency**. The available data combines sales transactions with factory and customer geographic information, enabling the company to assess profitability, shipping routes, product performance, and factory allocation.
 
-Although the dataset includes a small number of **Canadian** orders, the vast majority of transactions occur within the **United States**. To maintain a focused and meaningful analysis, this project concentrates exclusively on U.S. operations.
+This project analyzes both **commercial performance** and **distribution efficiency** using sales transactions combined with factory and customer geographic data. The analysis evaluates profitability, shipping routes, product performance, and factory allocation to provide insights that support operational and strategic decision-making.
+
+Although the dataset includes a small number of **Canadian** orders, the vast majority of transactions occur within the **United States**. To maintain a focused and representative analysis, this project concentrates exclusively on U.S. operations.
 
 </details>
 
