@@ -38,3 +38,19 @@ Although the dataset includes a small number of **Canadian** orders, the vast ma
 </details>
 
 <br>
+
+<details>
+<summary><strong>3. Business Problem</strong></summary>
+
+<br>
+
+The company lacks a centralized view of sales and distribution performance, making it difficult to answer key business questions such as:
+
+- Which factory-to-customer shipping routes are the most and least efficient?
+- Which product categories generate the highest revenue and profit margins?
+- Are products being supplied from factories that result in unnecessarily long shipping distances?
+- Which products, and geographic regions contribute the most to overall sales and profitability?
+
+</details>
+
+<br>
