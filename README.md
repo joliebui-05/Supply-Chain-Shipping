@@ -110,3 +110,20 @@ By transforming raw sales and distribution data into actionable insights, this s
 </details>
 
 <br>
+
+<details>
+<summary><strong>2. KPI Planning</strong></summary>
+
+<br>
+
+Before developing the dashboard, the key performance indicators (KPIs) were defined to ensure the solution aligned with the company's objectives of improving **sales performance** and **distribution efficiency**. Each KPI was selected to measure commercial performance, evaluate shipping operations, and provide stakeholders with actionable insights for data-driven decision-making.
+
+#### Success Criteria
+
+The success of this project was defined by its ability to deliver a centralized business intelligence solution that enables stakeholders to:
+
+- Monitor overall sales performance through revenue, profit, margin, and order KPIs.
+- Evaluate distribution efficiency using shipping distance and customer coverage metrics.
+- Identify high-performing products and factories.
+- Detect opportunities to reduce long shipping distances and improve customer coverage.
+- Support data-driven sales and distribution planning through interactive dashboards.
