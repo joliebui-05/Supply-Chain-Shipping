@@ -20,6 +20,16 @@ The report transforms raw shipping and sales data into interactive dashboards th
 
 <br>
 
+A national U.S. candy distributor manages product sales and shipments from multiple factories to customers across different geographic markets. The company tracks customer and factory locations, sales orders, product details, and divisional targets.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>2. Business Context</strong></summary>
+
+<br>
 
 This project analyzes both **commercial performance** and **distribution efficiency** using sales transactions combined with factory and customer geographic data. The analysis evaluates profitability, shipping routes, product performance, and factory allocation to provide insights that support operational and strategic decision-making.
 
@@ -28,4 +38,3 @@ Although the dataset includes a small number of **Canadian** orders, the vast ma
 </details>
 
 <br>
-
