@@ -167,36 +167,24 @@ The selected KPIs provide a balanced view of business performance across four ke
 
 Together, these metrics provide stakeholders with a comprehensive view of commercial performance and distribution efficiency, enabling data-driven decisions that improve profitability, optimize distribution operations, and support strategic business planning.
 
+</details>
+
+<br>
+
 <details>
 <summary><strong>3. Data Preparation</strong></summary>
 
 <br>
 
-Before building the data model, the U.S. Candy Distributor dataset was imported, explored, and transformed to ensure it was accurate, consistent, and ready for business analysis. SQL was used to explore and validate the data, while Power Query was used to clean and prepare the data for reporting in Power BI.
+Before building the data model, the AdventureWorks source data was imported, assessed, and transformed to ensure it was accurate, consistent, and suitable for analysis.
 
-### Data Acquisition
+#### Data Acquisition
 
-The project uses the **U.S. Candy Distributor** dataset provided by **Maven Analytics**. The source data was imported into **SQL Server** for exploratory analysis and validation before being loaded into **Power BI Desktop** using **Power Query** for transformation and modeling.
-
-| Source | Access Method | Storage |
-|--------|---------------|---------|
-| Maven Analytics – U.S. Candy Distributor Dataset | SQL Server & Power BI Desktop (Power Query) | Local Project Database & PBIX File |
-
-### Data Preparation Activities
-
-The data preparation process included:
-
-- Imported source data into SQL Server for exploration and validation.
-- Cleaned and transformed the data using Power Query.
-- Verified data quality by checking for missing, duplicate, and inconsistent records.
-- Standardized data types and column names.
-- Created relationships between fact and dimension tables using a star schema.
-- Built a dedicated calendar table to support time-based analysis.
-- Prepared the final data model for DAX calculations and interactive reporting.
-
-</details>
+The project uses the AdventureWorks dataset provided as multiple CSV files, which were imported into **Power BI Desktop** using **Power Query**.
 
 | Source | Access Method | Storage |
+|---------|---------------|---------|
+| AdventureWorks CSV Files | Power BI Desktop (Power Query) | Local Project Folder |
 |---------|---------------|---------|
 | AdventureWorks CSV Files | Power BI Desktop (Power Query) | Local Project Folder |
 
