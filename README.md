@@ -202,3 +202,17 @@ The initial data preparation was completed in SQL Server to ensure the dataset w
 | **Phase 2 – Data Quality Validation** | Identified duplicate records, inconsistent values, and data quality issues. |
 | **Phase 3 – Data Cleaning** | Removed unnecessary spaces and standardized text fields. |
 | **Phase 4 – Shipping Distance Calculation** | Calculated the shipping distance between factories and customers for distribution analysis. |
+
+#### Geographic Data Validation
+
+To support shipping distance analysis, the sales data was joined with a U.S. ZIP code reference table (`uszips`) to append latitude and longitude coordinates.
+
+During the validation process, the following data quality issues were identified:
+
+- The dataset contains **10,194 orders**, including:
+  - **9,994 U.S. orders**
+  - **200 Canadian orders**
+- The **200 Canadian orders** could not be matched to the U.S. ZIP code reference table because it only contains U.S. ZIP codes. As a result, these records have missing geographic coordinates and cannot be used for shipping distance calculations.
+- Within the U.S. ZIP code reference data, only **1 ZIP code** is missing a latitude value and **10 ZIP codes** are missing a longitude value. These represent a very small portion of the reference dataset and have minimal impact on the overall analysis.
+
+Because the objective of this project is to evaluate **U.S. sales performance and distribution efficiency**, the **200 Canadian orders were excluded** from the shipping distance analysis. The remaining U.S. dataset provides complete geographic coverage for the dashboard while maintaining high data quality.
