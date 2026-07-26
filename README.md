@@ -258,3 +258,18 @@ The solution uses a **star schema**, with **Fact_Sales** serving as the central 
 | **Dim_Date** | Supports consistent time-based analysis across sales using a dedicated calendar table. |
 | **Fact_Targets** | Stores sales targets by product division to support target-versus-actual performance analysis. |
 | **Dim_Distance** | Stores factory and customer coordinates along with calculated shipping distances used to analyze distribution efficiency and customer coverage. |
+
+#### Relationship Design
+
+The model primarily uses **one-to-many relationships** with **single-direction filtering** to provide efficient data propagation, simplify filtering behavior, and support scalable reporting.
+
+**Design principles**
+
+- Connected dimension tables to the **Fact_Sales** table using unique key fields.
+- Applied **one-to-many relationships** between dimension and fact tables.
+- Used **single-direction cross filtering** to minimize ambiguity and improve model performance.
+- Created a dedicated **Date** dimension to support consistent time intelligence across all reports.
+- Linked the **Fact_Targets** table to product divisions to enable target-versus-actual performance analysis.
+- Created a dedicated **Distance** table to support shipping distance calculations and customer coverage analysis.
+- Separated business entities into independent dimension tables (Products, Factories, US ZIP Codes, and Dates) to reduce data redundancy.
+- Avoided unnecessary **many-to-many relationships** and circular dependencies to maintain a clean and efficient star schema.
