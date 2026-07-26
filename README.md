@@ -276,7 +276,7 @@ The model primarily uses **one-to-many relationships** with **single-direction f
 
 #### Data Model Diagram
 
-![AdventureWorks Data Model](Images/Data_Model.png)
+![US Candy Distributor Data Model](Images/Data_Model.png)
 
-*Figure: Hybrid dimensional model consisting of two fact tables, shared dimensions, and a snowflaked product hierarchy.*
+*Figure: Star schema data model consisting of a central Fact_Sales table, supporting dimension tables, a sales targets fact table, and a dedicated distance table for distribution analysis.*
 
