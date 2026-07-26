@@ -218,3 +218,18 @@ During the validation process, the following data quality issues were identified
 | Missing Longitude | 10 ZIP codes | Kept |
 
 Because the objective of this project is to evaluate **U.S. sales performance and distribution efficiency**, the **200 Canadian orders were excluded** from the shipping distance analysis. The remaining U.S. dataset provides complete geographic coverage for the dashboard while maintaining high data quality.
+
+#### Power BI Data Preparation
+
+After completing the SQL validation and data quality checks, the cleaned dataset was imported into **Power BI Desktop** using **Power Query**. Additional transformations were applied to prepare the data for modeling, analysis, and visualization.
+
+| Preparation Step | Purpose |
+|------------------|---------|
+| Imported validated SQL tables | Loaded the cleaned dataset into Power BI. |
+| Configured data types | Assigned appropriate data types (text, whole number, decimal, date). |
+| Renamed columns | Standardized column names for readability and consistency. |
+| Removed unnecessary columns | Eliminated fields not required for analysis to simplify the data model. |
+| Created calculated columns | Added business attributes to support reporting where needed. |
+| Built a calendar table | Enabled time intelligence and trend analysis. |
+| Created relationships | Established a star schema between fact and dimension tables. |
+| Validated the data model | Verified relationships, row counts, and filter propagation before creating DAX measures. |
