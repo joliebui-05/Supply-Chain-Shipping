@@ -243,19 +243,18 @@ After completing the SQL validation and data quality checks, the cleaned dataset
 
 <br>
 
-After data preparation, a data model was designed to support sales, returns, customer, product, territory, and time-based analysis. The model was optimized for efficient filtering, reusable calculations, and scalable reporting.
-The model uses a **hybrid dimensional structure**:
+After data preparation, a dimensional data model was designed to support **sales performance**, **product analysis**, and **distribution efficiency**. The model was optimized for efficient filtering, reusable calculations, and scalable reporting.
 
-- A star schema design connects the main fact tables to the customer, territory, date, and product dimensions.
-- The product hierarchy is normalized into separate product, subcategory, and category tables, creating a snowflake structure.
+The solution uses a **star schema**, with **Fact_Sales** serving as the central fact table connected to supporting dimensions for products, factories, dates, geographic information, and sales targets. An additional **Dim_Distance** table was created to support shipping distance analysis between factories and customers.
 
 #### Model Structure
 
 | Table Group | Purpose |
-|-------------|---------|
-| **Fact_Sales** | Stores sales transactions, including orders, quantities, products, customers, territories, order dates, and stock dates. |
-| **Fact_Returns** | Stores product return quantities by return date, product, and territory. |
-| **Dim_Customer** | Provides customer attributes for segmentation and behavioral analysis. |
-| **Dim_Territory** | Supports regional and geographic performance analysis. |
-| **Dim_Date** | Enables consistent time-based analysis across sales and returns. |
-| **Product Hierarchy** | Uses Dim_Product, Dim_Product_SubCategory, and Dim_Product_Category to create a normalized product hierarchy, enabling drill-down analysis from product category to individual products. |
+|--------------|---------|
+| **Fact_Sales** | Stores sales transactions, including orders, revenue, profit, customers, products, factories, postal codes, and order dates. |
+| **Dim_Products** | Provides product attributes, including product name, division, factory, unit price, and unit cost for product performance analysis. |
+| **Dim_Factories** | Stores factory information and geographic coordinates used to evaluate factory performance and distribution coverage. |
+| **Dim_USZips** | Provides geographic reference data, including city, county, latitude, and longitude for customer mapping and spatial analysis. |
+| **Dim_Date** | Supports consistent time-based analysis across sales using a dedicated calendar table. |
+| **Fact_Targets** | Stores sales targets by product division to support target-versus-actual performance analysis. |
+| **Dim_Distance** | Stores factory and customer coordinates along with calculated shipping distances used to analyze distribution efficiency and customer coverage. |
