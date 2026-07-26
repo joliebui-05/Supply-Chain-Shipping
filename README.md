@@ -233,3 +233,29 @@ After completing the SQL validation and data quality checks, the cleaned dataset
 | Built a calendar table | Enabled time intelligence and trend analysis. |
 | Created relationships | Established a star schema between fact and dimension tables. |
 | Validated the data model | Verified relationships, row counts, and filter propagation before creating DAX measures. |
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>4. Data Modeling</strong></summary>
+
+<br>
+
+After data preparation, a data model was designed to support sales, returns, customer, product, territory, and time-based analysis. The model was optimized for efficient filtering, reusable calculations, and scalable reporting.
+The model uses a **hybrid dimensional structure**:
+
+- A star schema design connects the main fact tables to the customer, territory, date, and product dimensions.
+- The product hierarchy is normalized into separate product, subcategory, and category tables, creating a snowflake structure.
+
+#### Model Structure
+
+| Table Group | Purpose |
+|-------------|---------|
+| **Fact_Sales** | Stores sales transactions, including orders, quantities, products, customers, territories, order dates, and stock dates. |
+| **Fact_Returns** | Stores product return quantities by return date, product, and territory. |
+| **Dim_Customer** | Provides customer attributes for segmentation and behavioral analysis. |
+| **Dim_Territory** | Supports regional and geographic performance analysis. |
+| **Dim_Date** | Enables consistent time-based analysis across sales and returns. |
+| **Product Hierarchy** | Uses Dim_Product, Dim_Product_SubCategory, and Dim_Product_Category to create a normalized product hierarchy, enabling drill-down analysis from product category to individual products. |
