@@ -190,11 +190,15 @@ The project uses the **U.S. Candy Distributor** dataset provided by **Maven Anal
 
 The source data was reviewed to identify issues that could affect reporting accuracy and model reliability.
 
-**Quality checks performed**
+#### SQL Data Preparation
 
-- Reviewed column data types
-- Checked for missing values
-- Validated unique keys
-- Reviewed duplicate records
-- Verified consistency across related tables
-- Confirmed data integrity before modeling
+The initial data preparation was completed in SQL Server to ensure the dataset was accurate, consistent, and ready for analysis.
+
+| Phase | Purpose |
+|--------|---------|
+| **Phase 1 – Database Setup** | Created the project database and imported the source data. |
+| **Phase 1 – Missing Value Validation** | Checked for missing or null values across all tables. |
+| **Phase 2 – Relationship Validation** | Verified relationships between sales, products, customers, and factories. |
+| **Phase 2 – Data Quality Validation** | Identified duplicate records, inconsistent values, and data quality issues. |
+| **Phase 3 – Data Cleaning** | Removed unnecessary spaces and standardized text fields. |
+| **Phase 4 – Shipping Distance Calculation** | Calculated the shipping distance between factories and customers for distribution analysis. |
