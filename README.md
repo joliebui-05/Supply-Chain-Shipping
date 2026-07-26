@@ -209,12 +209,12 @@ To support shipping distance analysis, the sales data was joined with a U.S. ZIP
 
 During the validation process, the following data quality issues were identified:
 
-| Validation Check | Result | Impact | Decision |
-|------------------|-------:|--------|----------|
-| Total Sales Orders | 10,194 | Dataset imported successfully | Included |
-| U.S. Orders | 9,994 | Complete geographic coverage using the U.S. ZIP reference table | Included in analysis |
-| Canadian Orders | 200 | No matching records in the U.S. ZIP reference table, resulting in missing coordinates | Excluded from shipping distance analysis |
-| Missing Latitude | 1 ZIP code | Minimal impact on geographic analysis | Retained |
-| Missing Longitude | 10 ZIP codes | Minimal impact on geographic analysis | Retained |
+| Check | Findings | Action |
+|-------|----------|--------|
+| Sales Records | 10,194 total orders | Reviewed |
+| U.S. Orders | 9,994 orders | Included |
+| Canadian Orders | 200 orders with missing geographic coordinates | Excluded |
+| Missing Latitude | 1 ZIP code | Kept |
+| Missing Longitude | 10 ZIP codes | Kept |
 
 Because the objective of this project is to evaluate **U.S. sales performance and distribution efficiency**, the **200 Canadian orders were excluded** from the shipping distance analysis. The remaining U.S. dataset provides complete geographic coverage for the dashboard while maintaining high data quality.
