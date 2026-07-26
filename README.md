@@ -254,7 +254,7 @@ The solution uses a **star schema**, with **Fact_Sales** serving as the central 
 | **Fact_Sales** | Stores sales transactions, including orders, revenue, profit, customers, products, factories, postal codes, and order dates. |
 | **Dim_Products** | Provides product attributes, including product name, division, factory, unit price, and unit cost for product performance analysis. |
 | **Dim_Factories** | Stores factory information and geographic coordinates used to evaluate factory performance and distribution coverage. |
-| **Dim_USZips** | Provides geographic reference data, including city, county, latitude, and longitude for customer mapping and spatial analysis. |
+| **Dim_uszips** | Provides geographic reference data, including city, county, latitude, and longitude for customer mapping. |
 | **Dim_Date** | Supports consistent time-based analysis across sales using a dedicated calendar table. |
 | **Fact_Targets** | Stores sales targets by product division to support target-versus-actual performance analysis. |
 | **Dim_Distance** | Stores factory and customer coordinates along with calculated shipping distances used to analyze distribution efficiency and customer coverage. |
