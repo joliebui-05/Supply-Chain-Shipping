@@ -406,25 +406,25 @@ The Sales Performance dashboard provides a comprehensive view of commercial perf
 ---
 ### Distribution Performance
 
-The Distribution Performance dashboard evaluates shipping efficiency, customer coverage, and factory performance to identify opportunities for improving logistics and operational efficiency.
+The Distribution Performance dashboard evaluates shipping efficiency, customer coverage, and factory performance to identify opportunities for improving logistics operations across the U.S. distribution network.
 
 #### Key Findings
 
 - The average shipping distance was **1.24K miles**, with the longest shipment reaching **2.43K miles**.
-- Only **18.5%** of orders were delivered within the **500-mile** target radius, while **81.5%** exceeded the target shipping distance.
-- **Lot's O' Nuts Factory** achieved the strongest distribution performance, generating approximately **$75K** in revenue and **$52K** in profit.
-- **Sweet Factory** recorded the highest customer coverage rate, serving the largest proportion of customers within the target shipping radius.
+- Only **14.7%** of the **8,389 orders** were delivered within the **500-mile** target radius (**1,237 within** vs. **7,152 outside**), indicating that most customers are served from well beyond the desired shipping range.
+- **Standard Class** was the primary shipping mode, generating approximately **$83K** in revenue and **$55K** in profit—more than three times the revenue of **Second Class**.
+- Customer coverage varied across factories, with **Secret Factory** achieving the highest coverage rate (**23.0%**) and **Wicked Choccy's** recording the lowest (**12.8%**).
 
 #### Deeper Analysis
 
-- Most customer deliveries exceed the **500-mile** target, indicating opportunities to improve distribution efficiency and reduce transportation costs.
-- Factory performance differs across revenue generation and customer coverage, suggesting that high sales performance does not always align with optimal geographic coverage.
-- While **Lot's O' Nuts Factory** generated the highest revenue and profit, **Sweet Factory** provided the best customer coverage, highlighting different operational strengths across facilities.
-- The geographic distribution of customers suggests potential opportunities to optimize factory assignments and reduce average shipping distances.
+- The high proportion of long-distance shipments suggests opportunities to reduce transportation costs and improve delivery efficiency.
+- **Lot's O' Nuts** remains the strongest-performing factory in terms of revenue and profit but achieves only **15.8%** customer coverage within the target radius, indicating that its commercial success relies heavily on serving distant customers.
+- **Secret Factory**, while generating lower overall revenue, provides the most efficient customer coverage, suggesting its geographic location is better aligned with customer demand.
+- Geographic coverage maps reveal distinct service areas for each factory, with **Lot's O' Nuts** concentrated in the Northeast and Midwest, **Secret Factory** serving a more centralized region, and **Wicked Choccy's** primarily covering the Southeast despite its relatively low coverage efficiency.
 
 #### Strategic Recommendations
 
-- Evaluate factory-to-customer assignments to reduce long shipping distances where operationally feasible.
-- Expand distribution capacity in regions with high customer demand but limited local factory coverage.
-- Balance revenue generation with distribution efficiency when planning production and order fulfillment.
-- Continue monitoring shipping distance and customer coverage KPIs to improve logistics performance and customer service levels.
+- Evaluate factory-to-customer allocation to reduce long shipping distances where operationally feasible.
+- Assess whether additional production volume can be shifted to **Secret Factory** to improve overall distribution efficiency while maintaining customer service levels.
+- Investigate opportunities to improve customer coverage for **Lot's O' Nuts** and **Wicked Choccy's**, where strong sales performance is not matched by geographic efficiency.
+- Continue monitoring shipping distance, customer coverage, and factory performance to support future distribution network planning and transportation cost optimization.
