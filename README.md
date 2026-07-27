@@ -315,11 +315,11 @@ The dashboard was developed using the following design principles:
 
 The report consists of two primary business sections:
 
-##### Sales Performance
+#### Sales Performance
 
 The Sales Performance section provides an overview of commercial performance through executive KPIs, revenue trends, product analysis, and factory comparisons.
 
-**Key Visuals**
+  **Key Visuals**
 
 - KPI Cards (Revenue, Profit, Orders, Profit Margin, Average Order Value)
 - Top Cities by Revenue
@@ -330,11 +330,11 @@ The Sales Performance section provides an overview of commercial performance thr
 ![US Candy Distributor Sales Performance](Images/Sales.png)
 *Figure: Sales Performance dashboard providing an executive view of revenue, profitability, factory performance, and product analysis.*
 
-##### Distribution Performance
+#### Distribution Performance
 
 The Distribution Performance section focuses on evaluating shipping efficiency and customer coverage across the U.S. distribution network.
 
-**Key Visuals**
+  **Key Visuals**
 
 - Distribution KPI Cards
 - Ship Mode Performance
@@ -349,7 +349,7 @@ The Distribution Performance section focuses on evaluating shipping efficiency a
 
 The Product Details page provides a drill-through experience that allows users to investigate the performance of an individual product over time.
 
-**Key Visuals**
+  **Key Visuals**
 
 - Product Revenue and Profit Trends
 - Monthly Order Trend
