@@ -5,7 +5,7 @@ Analyzes the U.S. candy sales, profitability, shipping distance, and factory cov
 
 #### 🚀 Live Dashboard
 
-#### 👉 **[Click here to view the interactive Power BI Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9](https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9))**
+#### 👉 **[Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9)**
 
 ## 📖 Project Overview
 
