@@ -417,7 +417,7 @@ The Distribution Performance dashboard evaluates shipping efficiency, customer c
 
 #### Deeper Analysis
 
-- The high proportion of long-distance shipments suggests opportunities to reduce transportation costs and improve delivery efficiency.
+- The distribution network relies heavily on long-distance shipments, which may lead to higher logistics costs, longer delivery times, and increased operational complexity.
 - **Lot's O' Nuts** remains the strongest-performing factory in terms of revenue and profit but achieves only **15.8%** customer coverage within the target radius, indicating that its commercial success relies heavily on serving distant customers.
 - **Secret Factory**, while generating lower overall revenue, provides the most efficient customer coverage, suggesting its geographic location is better aligned with customer demand.
 - Geographic coverage maps reveal distinct service areas for each factory, with **Lot's O' Nuts** concentrated in the Northeast and Midwest, **Secret Factory** serving a more centralized region, and **Wicked Choccy's** primarily covering the Southeast despite its relatively low coverage efficiency.
