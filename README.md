@@ -282,9 +282,9 @@ The model primarily uses **one-to-many relationships** with **single-direction f
 
 #### DAX Measures
 
-The dashboard includes a collection of reusable DAX measures for KPI calculations, time intelligence, profitability analysis, and customer metrics.
+The dashboard includes a collection of reusable DAX measures developed to support **sales performance**, **product profitability**, **distribution efficiency**, and **time-based analysis**. These measures power the dashboard KPIs, interactive visualizations, and business calculations, enabling consistent and reliable reporting across all dashboard pages.
 
-A complete reference of all measures is available here:
+A complete reference of all DAX measures, including formulas and descriptions, is available here:
 
 📄 **DAX Measures Documentation** - [View PDF](Docs/Supply_Chain_Shipping_DAX_Documentation.pdf)
 
