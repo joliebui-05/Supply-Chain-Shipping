@@ -365,3 +365,42 @@ The Product Details page provides a drill-through experience that allows users t
 ![US Candy Distributor Product Details](Images/Product_Details.png)
 
 *Figure: Product Details page enabling detailed analysis of individual product performance using interactive metrics.*
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>6. Business Insights & Recommendations</strong></summary>
+
+<br>
+
+The dashboard provides actionable insights into sales performance, product profitability, factory performance, and distribution efficiency. These insights enable stakeholders to monitor key business metrics, identify opportunities to improve sales and shipping operations, and make informed, data-driven decisions that support business growth.
+
+### Sales Performance
+
+The Sales Performance dashboard provides a comprehensive view of commercial performance by summarizing revenue, profitability, factory performance, and product sales trends.
+
+#### Key Findings
+
+- The business generated **$139K in revenue** and **$92K in profit** from **8,389 orders**, achieving a **65.9% profit margin**.
+- **Wonka Bar – Triple Dazzle Caramel** was the top-performing product, generating approximately **$28K** in revenue.
+- **New York City** was the highest-performing market, contributing approximately **$12.5K** in revenue.
+- **Lot's O' Nuts Factory** generated the highest revenue and profit, producing approximately **$75K** in revenue and **$52K** in profit.
+- Revenue and profit followed an overall upward trend with recurring seasonal peaks and stronger business growth during **2024**.
+
+#### Deeper Analysis
+
+- Sales performance is concentrated within a small number of flagship products, with the **Wonka Bar** product line accounting for a significant share of total revenue.
+- Factory performance varies considerably, with **Lot's O' Nuts** outperforming the other factories in both revenue and profitability.
+- Monthly revenue and profit trends exhibit consistent seasonal fluctuations while maintaining a positive long-term growth trajectory, indicating stable business expansion.
+- The strong **65.9% profit margin** suggests effective pricing and cost management across the product portfolio.
+
+#### Strategic Recommendations
+
+- Continue investing in the **Wonka Bar** product line while evaluating opportunities to increase sales of lower-performing products.
+- Analyze the operational practices of **Lot's O' Nuts Factory** to identify strategies that can be replicated across other manufacturing facilities.
+- Expand marketing initiatives in high-performing markets such as **New York City** while exploring growth opportunities in lower-performing cities.
+- Continue monitoring seasonal sales patterns to improve inventory planning, production scheduling, and promotional campaigns.
+- Maintain profit margin performance by regularly reviewing pricing strategies and production costs as sales volume continues to grow.
+---
