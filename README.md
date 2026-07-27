@@ -288,7 +288,8 @@ A complete reference of all DAX measures, including formulas and descriptions, i
 
 📄 **DAX Measures Documentation** - [View PDF](Docs/Supply_Chain_Shipping_DAX_Documentation.pdf)
 
-</details>
+<details>
+<summary><strong>5. Dashboard Development</strong></summary>
 
 <br>
 
