@@ -319,7 +319,7 @@ The report consists of two primary business sections:
 
 The Sales Performance section provides an overview of commercial performance through executive KPIs, revenue trends, product analysis, and factory comparisons.
 
-  **Key Visuals**
+##### Key Visuals
 
 - KPI Cards (Revenue, Profit, Orders, Profit Margin, Average Order Value)
 - Top Cities by Revenue
@@ -334,7 +334,7 @@ The Sales Performance section provides an overview of commercial performance thr
 
 The Distribution Performance section focuses on evaluating shipping efficiency and customer coverage across the U.S. distribution network.
 
-  **Key Visuals**
+##### Key Visuals
 
 - Distribution KPI Cards
 - Ship Mode Performance
@@ -349,7 +349,7 @@ The Distribution Performance section focuses on evaluating shipping efficiency a
 
 The Product Details page provides a drill-through experience that allows users to investigate the performance of an individual product over time.
 
-  **Key Visuals**
+##### Key Visuals
 
 - Product Revenue and Profit Trends
 - Monthly Order Trend
