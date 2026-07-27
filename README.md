@@ -280,3 +280,11 @@ The model primarily uses **one-to-many relationships** with **single-direction f
 
 *Figure: Star schema data model consisting of a central Fact_Sales table, supporting dimension tables, a sales targets fact table, and a dedicated distance table for distribution analysis.*
 
+#### DAX Measures
+
+The dashboard includes a collection of reusable DAX measures for KPI calculations, time intelligence, profitability analysis, and customer metrics.
+
+A complete reference of all measures is available here:
+
+📄 **DAX Measures Documentation** - [View PDF](Docs/Supply_Chain_Shipping_DAX_Documentation.pdf)
+
