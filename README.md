@@ -299,7 +299,7 @@ A complete reference of all DAX measures, including formulas and descriptions, i
 
 The dashboard was designed to provide stakeholders with an intuitive and interactive view of **sales performance** and **distribution efficiency** across the U.S. candy distribution network. The report combines executive KPIs, operational metrics, and geographic analysis within a consistent layout to support both strategic and operational decision-making.
 
-### Dashboard Design Principles
+#### Dashboard Design Principles
 
 The dashboard was developed using the following design principles:
 
@@ -311,11 +311,11 @@ The dashboard was developed using the following design principles:
 - Incorporated geographic visualizations to evaluate customer coverage and shipping efficiency.
 - Minimized visual clutter by emphasizing the most important business metrics and insights.
 
-### Dashboard Overview
+#### Dashboard Overview
 
 The report consists of two primary business sections:
 
-#### Sales Performance
+##### Sales Performance
 
 The Sales Performance section provides an overview of commercial performance through executive KPIs, revenue trends, product analysis, and factory comparisons.
 
@@ -327,11 +327,12 @@ The Sales Performance section provides an overview of commercial performance thr
 - Monthly Revenue and Profit Trend
 - Product Performance Table
 
+![US Candy Distributor Sales Performance](Images/Sales.png)
 *Figure: Sales Performance dashboard providing an executive view of revenue, profitability, factory performance, and product analysis.*
 
 ---
 
-#### Distribution Performance
+##### Distribution Performance
 
 The Distribution Performance section focuses on evaluating shipping efficiency and customer coverage across the U.S. distribution network.
 
@@ -343,11 +344,12 @@ The Distribution Performance section focuses on evaluating shipping efficiency a
 - Orders Coverage Rate by Factory
 - Shipping Radius Analysis
 
+![US Candy Distributor Sales Performance](Images/Distribution.png)
 *Figure: Distribution Performance dashboard highlighting shipping distance, customer coverage, and factory distribution efficiency.*
 
 ---
 
-#### Product Details
+##### Product Details
 
 The Product Details page provides a drill-through experience that allows users to investigate the performance of an individual product over time.
 
