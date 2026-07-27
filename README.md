@@ -375,7 +375,7 @@ The Product Details page provides a drill-through experience that allows users t
 
 <br>
 
-The dashboard provides actionable insights into sales performance, product profitability, factory performance, and distribution efficiency. These insights enable stakeholders to monitor key business metrics, identify opportunities to improve sales and shipping operations, and make informed, data-driven decisions that support business growth.
+The dashboard delivers actionable insights into sales performance and distribution efficiency by combining commercial and geographic analysis in a single reporting solution. These findings help stakeholders evaluate product and factory performance, improve distribution operations, and support strategic, data-driven decision-making.
 
 ### Sales Performance
 
@@ -404,3 +404,27 @@ The Sales Performance dashboard provides a comprehensive view of commercial perf
 - Continue monitoring seasonal sales patterns to improve inventory planning, production scheduling, and promotional campaigns.
 - Maintain profit margin performance by regularly reviewing pricing strategies and production costs as sales volume continues to grow.
 ---
+### Distribution Performance
+
+The Distribution Performance dashboard evaluates shipping efficiency, customer coverage, and factory performance to identify opportunities for improving logistics and operational efficiency.
+
+#### Key Findings
+
+- The average shipping distance was **1.24K miles**, with the longest shipment reaching **2.43K miles**.
+- Only **18.5%** of orders were delivered within the **500-mile** target radius, while **81.5%** exceeded the target shipping distance.
+- **Lot's O' Nuts Factory** achieved the strongest distribution performance, generating approximately **$75K** in revenue and **$52K** in profit.
+- **Sweet Factory** recorded the highest customer coverage rate, serving the largest proportion of customers within the target shipping radius.
+
+#### Deeper Analysis
+
+- Most customer deliveries exceed the **500-mile** target, indicating opportunities to improve distribution efficiency and reduce transportation costs.
+- Factory performance differs across revenue generation and customer coverage, suggesting that high sales performance does not always align with optimal geographic coverage.
+- While **Lot's O' Nuts Factory** generated the highest revenue and profit, **Sweet Factory** provided the best customer coverage, highlighting different operational strengths across facilities.
+- The geographic distribution of customers suggests potential opportunities to optimize factory assignments and reduce average shipping distances.
+
+#### Strategic Recommendations
+
+- Evaluate factory-to-customer assignments to reduce long shipping distances where operationally feasible.
+- Expand distribution capacity in regions with high customer demand but limited local factory coverage.
+- Balance revenue generation with distribution efficiency when planning production and order fulfillment.
+- Continue monitoring shipping distance and customer coverage KPIs to improve logistics performance and customer service levels.
