@@ -288,72 +288,26 @@ A complete reference of all DAX measures, including formulas and descriptions, i
 
 📄 **DAX Measures Documentation** - [View PDF](Docs/Supply_Chain_Shipping_DAX_Documentation.pdf)
 
+</details>
+
+<br>
+
 <details>
 <summary><strong>5. Dashboard Development</strong></summary>
 
 <br>
 
-The dashboard was designed to provide stakeholders with an intuitive and interactive view of **sales performance** and **distribution efficiency** across the U.S. candy distribution network. The report combines executive KPIs, operational metrics, and geographic analysis within a consistent layout to support both strategic and operational decision-making.
+The dashboard was designed to provide stakeholders with a clear and interactive view of business performance. Each report page focuses on a specific business area while maintaining a consistent layout, navigation, and visual style.
 
-### Dashboard Design Principles
+#### Dashboard Design Principles
 
-The dashboard was developed using the following design principles:
+The dashboard was developed with the following design principles:
 
-- Prioritized key business KPIs for quick performance monitoring.
-- Organized the report into **Sales Performance** and **Distribution Performance** sections.
-- Maintained a consistent color palette, typography, and layout throughout the dashboard.
-- Used interactive slicers to enable flexible filtering by Year, Month, Factory, and Product.
-- Applied cross-filtering to support detailed exploration across visuals.
-- Incorporated geographic visualizations to evaluate customer coverage and shipping efficiency.
-- Minimized visual clutter by emphasizing the most important business metrics and insights.
-
-### Dashboard Overview
-
-The report consists of two primary business sections:
-
-#### Sales Performance
-
-The Sales Performance section provides an overview of commercial performance through executive KPIs, revenue trends, product analysis, and factory comparisons.
-
-**Key Visuals**
-
-- KPI Cards (Revenue, Profit, Orders, Profit Margin, Average Order Value)
-- Top Cities by Revenue
-- Revenue and Profit by Factory
-- Monthly Revenue and Profit Trend
-- Product Performance Table
-
-*Figure: Sales Performance dashboard providing an executive view of revenue, profitability, factory performance, and product analysis.*
-
----
-
-#### Distribution Performance
-
-The Distribution Performance section focuses on evaluating shipping efficiency and customer coverage across the U.S. distribution network.
-
-**Key Visuals**
-
-- Distribution KPI Cards
-- Ship Mode Performance
-- Customer Coverage Map
-- Orders Coverage Rate by Factory
-- Shipping Radius Analysis
-
-*Figure: Distribution Performance dashboard highlighting shipping distance, customer coverage, and factory distribution efficiency.*
-
----
-
-#### Product Details
-
-The Product Details page provides a drill-through experience that allows users to investigate the performance of an individual product over time.
-
-**Key Visuals**
-
-- Product Revenue and Profit Trends
-- Monthly Order Trend
-- Interactive KPI Selector
-- Price Adjustment Analysis
-
+- Prioritized key KPIs for quick executive review
+- Maintained a consistent color palette and layout across all pages
+- Used interactive slicers for flexible analysis
+- Applied cross-filtering to support detailed exploration
+- Minimized visual clutter to improve readability
 *Figure: Product Details page enabling detailed analysis of individual product performance using interactive metrics.*
 
 </details>
