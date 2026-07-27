@@ -328,6 +328,7 @@ The Sales Performance section provides an overview of commercial performance thr
 - Product Performance Table
 
 ![US Candy Distributor Sales Performance](Images/Sales.png)
+
 *Figure: Sales Performance dashboard providing an executive view of revenue, profitability, factory performance, and product analysis.*
 
 ---
@@ -345,6 +346,7 @@ The Distribution Performance section focuses on evaluating shipping efficiency a
 - Shipping Radius Analysis
 
 ![US Candy Distributor Sales Performance](Images/Distribution.png)
+
 *Figure: Distribution Performance dashboard highlighting shipping distance, customer coverage, and factory distribution efficiency.*
 
 ---
@@ -361,4 +363,5 @@ The Product Details page provides a drill-through experience that allows users t
 - Price Adjustment Analysis
 
 ![US Candy Distributor Product Details](Images/Product_Details.png)
+
 *Figure: Product Details page enabling detailed analysis of individual product performance using interactive metrics.*
