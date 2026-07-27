@@ -288,6 +288,10 @@ A complete reference of all DAX measures, including formulas and descriptions, i
 
 📄 **DAX Measures Documentation** - [View PDF](Docs/Supply_Chain_Shipping_DAX_Documentation.pdf)
 
+</details>
+
+<br>
+
 <details>
 <summary><strong>5. Dashboard Development</strong></summary>
 
@@ -355,5 +359,3 @@ The Product Details page provides a drill-through experience that allows users t
 - Price Adjustment Analysis
 
 *Figure: Product Details page enabling detailed analysis of individual product performance using interactive metrics.*
-
-</details>
